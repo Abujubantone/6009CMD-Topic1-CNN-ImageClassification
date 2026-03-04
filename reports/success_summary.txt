@@ -1,0 +1,8 @@
+=== 6009CMD Topic 1 - Part A SUCCESS SUMMARY ===
+Test Accuracy: 0.7538 (75.38%)
+Model file: models/partA_model.h5
+Training stopped at epoch: 15 (EarlyStopping)
+Training history plot saved: reports/figures/training_history.png
+Status: SUCCESS - Human-guided CNN trained correctly
+
+This file is exported proof for the report and video.
