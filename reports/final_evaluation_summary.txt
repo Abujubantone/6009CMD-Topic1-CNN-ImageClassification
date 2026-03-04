@@ -1,0 +1,6 @@
+=== TOPIC 1 PART A - FINAL EVALUATION SUMMARY ===
+Test Accuracy: 0.7538 (75.38%)
+Ambiguous images flagged: 2498
+Method: Softmax confidence threshold < 0.65
+Files saved: confusion_matrix.png + ambiguous_samples.png
+Status: COMPLETE - All Part A requirements met (human-guided)
